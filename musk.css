@@ -1,0 +1,45 @@
+body {
+    background: black;
+    background-size: cover;
+}
+
+* {
+    font-family: calibri;
+}
+
+.name {
+    color: white;
+    font-size: 90px;
+    font-family: 'times new roman';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+fieldset {
+    color: white;
+    width: 780px;
+    background-color: rgb(31, 31, 31);
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px grey;
+}
+
+.box {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wikipedia {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
